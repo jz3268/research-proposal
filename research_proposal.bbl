@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{14}
+\begin{thebibliography}{15}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,6 +36,20 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Bertholdo, Ceron, Vries, Schmidt, Granville,
+  Rijswijk-Deij, and Pras}{Bertholdo et~al\mbox{.}}{2021}]%
+        {tangled}
+\bibfield{author}{\bibinfo{person}{Leandro~M. Bertholdo},
+  \bibinfo{person}{João~M. Ceron}, \bibinfo{person}{Wouter B.~de Vries},
+  \bibinfo{person}{Ricardo de~Oliveira Schmidt},
+  \bibinfo{person}{Lisandro~Zambenedetti Granville},
+  \bibinfo{person}{Roland~van Rijswijk-Deij}, {and} \bibinfo{person}{Aiko
+  Pras}.}
+\newblock \showarticletitle{TANGLED: A Cooperative Anycast Testbed}. In
+  \bibinfo{booktitle}{\emph{IFIP/IEEE IM}},  \bibinfo{year}{2021}\natexlab{}.
+\newblock
+
 
 \bibitem[\protect\citeauthoryear{Birge-Lee, Apostolaki, and Rexford}{Birge-Lee
   et~al\mbox{.}}{2022}]%
