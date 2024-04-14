@@ -1,0 +1,97 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: research_proposal.aux
+The style file: ACM-Reference-Format.bst.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: mybib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in tango
+Warning--empty address in tango
+Warning--page numbers missing in both pages and numpages fields in tango
+Warning--empty publisher in tango-nsdi
+Warning--empty address in tango-nsdi
+Warning--page numbers missing in both pages and numpages fields in tango-nsdi
+Warning--empty publisher in anycast_matt
+Warning--empty address in anycast_matt
+Warning--page numbers missing in both pages and numpages fields in anycast_matt
+Warning--empty publisher in flavel2015fastroute
+Warning--empty address in flavel2015fastroute
+Warning--page numbers missing in both pages and numpages fields in flavel2015fastroute
+Warning--empty publisher in painter
+Warning--empty address in painter
+Warning--page numbers missing in both pages and numpages fields in painter
+Warning--empty publisher in bgp-conv
+Warning--empty address in bgp-conv
+Warning--page numbers missing in both pages and numpages fields in bgp-conv
+Warning--empty publisher in anycast_ppp
+Warning--empty address in anycast_ppp
+Warning--page numbers missing in both pages and numpages fields in anycast_ppp
+Warning--empty publisher in capa
+Warning--empty address in capa
+Warning--page numbers missing in both pages and numpages fields in capa
+Warning--empty publisher in tipsy
+Warning--empty address in tipsy
+Warning--page numbers missing in both pages and numpages fields in tipsy
+Warning--empty publisher in schlinker19peering
+Warning--empty address in schlinker19peering
+Warning--page numbers missing in both pages and numpages fields in schlinker19peering
+Warning--empty publisher in schlinker2017engineering
+Warning--empty address in schlinker2017engineering
+Warning--page numbers missing in both pages and numpages fields in schlinker2017engineering
+Warning--empty publisher in a-measurement-study-on-the-impact
+Warning--empty address in a-measurement-study-on-the-impact
+Warning--page numbers missing in both pages and numpages fields in a-measurement-study-on-the-impact
+Warning--empty publisher in yap2017taking
+Warning--empty address in yap2017taking
+Warning--page numbers missing in both pages and numpages fields in yap2017taking
+Warning--empty publisher in imc-jc-deanony
+Warning--empty address in imc-jc-deanony
+Warning--page numbers missing in both pages and numpages fields in imc-jc-deanony
+You've used 14 entries,
+            5903 wiz_defined-function locations,
+            1388 strings with 17744 characters,
+and the built_in function-call counts, 17845 in all, are:
+= -- 1475
+> -- 1157
+< -- 0
++ -- 398
+- -- 380
+* -- 1621
+:= -- 2106
+add.period$ -- 56
+call.type$ -- 14
+change.case$ -- 150
+chr.to.int$ -- 14
+cite$ -- 56
+duplicate$ -- 1485
+empty$ -- 1037
+format.name$ -- 436
+if$ -- 3892
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 70
+newline$ -- 138
+num.names$ -- 112
+pop$ -- 809
+preamble$ -- 1
+purify$ -- 276
+quote$ -- 0
+skip$ -- 506
+stack$ -- 0
+substring$ -- 802
+swap$ -- 84
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 420
+warning$ -- 42
+while$ -- 56
+width$ -- 0
+write$ -- 249
+(There were 42 warnings)

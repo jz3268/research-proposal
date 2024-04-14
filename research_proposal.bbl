@@ -1,0 +1,222 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{14}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Birge-Lee, Apostolaki, and Rexford}{Birge-Lee
+  et~al\mbox{.}}{2022}]%
+        {tango}
+\bibfield{author}{\bibinfo{person}{Henry Birge-Lee}, \bibinfo{person}{Maria
+  Apostolaki}, {and} \bibinfo{person}{Jennifer Rexford}.}
+\newblock \showarticletitle{It Takes Two to Tango: Cooperative Edge-to-Edge
+  Routing}. In \bibinfo{booktitle}{\emph{HOTNETS}},
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Birge-Lee, Yoo, Herber, Rexford, and
+  Apostolaki}{Birge-Lee et~al\mbox{.}}{2024}]%
+        {tango-nsdi}
+\bibfield{author}{\bibinfo{person}{Henry Birge-Lee}, \bibinfo{person}{Sophia
+  Yoo}, \bibinfo{person}{Benjamin Herber}, \bibinfo{person}{Jennifer Rexford},
+  {and} \bibinfo{person}{Maria Apostolaki}.}
+\newblock \showarticletitle{TANGO: Secure Collaborative Route Control across
+  the Public Internet}. In \bibinfo{booktitle}{\emph{NSDI}},
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Calder, Flavel, Katz-Bassett, Mahajan, and
+  Padhye}{Calder et~al\mbox{.}}{2015}]%
+        {anycast_matt}
+\bibfield{author}{\bibinfo{person}{Matt Calder}, \bibinfo{person}{Ashley
+  Flavel}, \bibinfo{person}{Ethan Katz-Bassett}, \bibinfo{person}{Ratul
+  Mahajan}, {and} \bibinfo{person}{Jitendra Padhye}.}
+\newblock \showarticletitle{Analyzing the Performance of an Anycast CDN}. In
+  \bibinfo{booktitle}{\emph{ACM IMC}},  \bibinfo{year}{2015}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Flavel, Mani, Maltz, Holt, Liu, Chen, and
+  Surmachev}{Flavel et~al\mbox{.}}{2015}]%
+        {flavel2015fastroute}
+\bibfield{author}{\bibinfo{person}{Ashley Flavel},
+  \bibinfo{person}{Pradeepkumar Mani}, \bibinfo{person}{David Maltz},
+  \bibinfo{person}{Nick Holt}, \bibinfo{person}{Jie Liu},
+  \bibinfo{person}{Yingying Chen}, {and} \bibinfo{person}{Oleg Surmachev}.}
+\newblock \showarticletitle{Fastroute: A scalable Load-Aware Anycast Routing
+  Architecture for Modern CDNs}. In \bibinfo{booktitle}{\emph{USENIX NSDI}},
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Koch, Yu, Agarwal, Katz-Bassett, and
+  Beckett}{Koch et~al\mbox{.}}{2023}]%
+        {painter}
+\bibfield{author}{\bibinfo{person}{Thomas Koch}, \bibinfo{person}{Shuyue Yu},
+  \bibinfo{person}{Sharad Agarwal}, \bibinfo{person}{Ethan Katz-Bassett}, {and}
+  \bibinfo{person}{Ryan Beckett}.}
+\newblock \showarticletitle{PAINTER: Ingress Traffic Engineering and Routing
+  for Enterprise Cloud Networks}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Labovitz, Ahuja, Bose, and Jahanian}{Labovitz
+  et~al\mbox{.}}{2000}]%
+        {bgp-conv}
+\bibfield{author}{\bibinfo{person}{Craig Labovitz}, \bibinfo{person}{Abha
+  Ahuja}, \bibinfo{person}{Abhijit Bose}, {and} \bibinfo{person}{Farnam
+  Jahanian}.}
+\newblock \showarticletitle{Delayed Internet Routing Convergence}. In
+  \bibinfo{booktitle}{\emph{ACM SIGCOMM}},  \bibinfo{year}{2000}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Levin, Spring, and Bhattacharjee}{Li
+  et~al\mbox{.}}{2018}]%
+        {anycast_ppp}
+\bibfield{author}{\bibinfo{person}{Zhihao Li}, \bibinfo{person}{Dave Levin},
+  \bibinfo{person}{Neil Spring}, {and} \bibinfo{person}{Bobby Bhattacharjee}.}
+\newblock \showarticletitle{Internet Anycast: Performance, Problems, \&
+  Potential}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Scott, Tariq, Ferguson, Gill, Alimi,
+  Alipourfard, Arulkannan, Beauregard, Conner, Godfrey, Lin, Ong, Patel, Sabaa,
+  Singh, Smirnov, Verma, Viswanadham, and Vahdat}{Liu et~al\mbox{.}}{2024}]%
+        {capa}
+\bibfield{author}{\bibinfo{person}{Bingzhe Liu}, \bibinfo{person}{Colin Scott},
+  \bibinfo{person}{Mukarram Tariq}, \bibinfo{person}{Andrew Ferguson},
+  \bibinfo{person}{Phillipa Gill}, \bibinfo{person}{Richard Alimi},
+  \bibinfo{person}{Omid Alipourfard}, \bibinfo{person}{Deepak Arulkannan},
+  \bibinfo{person}{Virginia~Jean Beauregard}, \bibinfo{person}{Patrick Conner},
+  \bibinfo{person}{P.~Brighten Godfrey}, \bibinfo{person}{Xander Lin},
+  \bibinfo{person}{Joon Ong}, \bibinfo{person}{Mayur Patel},
+  \bibinfo{person}{Amr Sabaa}, \bibinfo{person}{Arjun Singh},
+  \bibinfo{person}{Alex Smirnov}, \bibinfo{person}{Manish Verma},
+  \bibinfo{person}{Prerepa~V Viswanadham}, {and} \bibinfo{person}{Amin
+  Vahdat}.}
+\newblock \showarticletitle{CAPA: An Architecture For Operating Cluster
+  Networks With High Availability}. In \bibinfo{booktitle}{\emph{USENIX NSDI}},
+   \bibinfo{year}{2024}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Markovitch, Agarwal, Fonseca, Beckett, Zhang,
+  Atov, and Chaturmohta}{Markovitch et~al\mbox{.}}{2022}]%
+        {tipsy}
+\bibfield{author}{\bibinfo{person}{Michael Markovitch}, \bibinfo{person}{Sharad
+  Agarwal}, \bibinfo{person}{Rodrigo Fonseca}, \bibinfo{person}{Ryan Beckett},
+  \bibinfo{person}{Chuanji Zhang}, \bibinfo{person}{Irena Atov}, {and}
+  \bibinfo{person}{Somesh Chaturmohta}.}
+\newblock \showarticletitle{TIPSY: Predicting Where Traffic Will Ingress a
+  WAN}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schlinker, Arnold, Cunha, and
+  Katz-Bassett}{Schlinker et~al\mbox{.}}{2019}]%
+        {schlinker19peering}
+\bibfield{author}{\bibinfo{person}{Brandon Schlinker}, \bibinfo{person}{Todd
+  Arnold}, \bibinfo{person}{Italo Cunha}, {and} \bibinfo{person}{Ethan
+  Katz-Bassett}.}
+\newblock \showarticletitle{{PEERING: Virtualizing BGP at the Edge for
+  Research}}. In \bibinfo{booktitle}{\emph{ACM CoNEXT}},
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schlinker, Kim, Cui, Katz-Bassett, Madhyastha,
+  Cunha, Quinn, Hasan, Lapukhov, and Zeng}{Schlinker et~al\mbox{.}}{2017}]%
+        {schlinker2017engineering}
+\bibfield{author}{\bibinfo{person}{Brandon Schlinker},
+  \bibinfo{person}{Hyojeong Kim}, \bibinfo{person}{Timothy Cui},
+  \bibinfo{person}{Ethan Katz-Bassett}, \bibinfo{person}{Harsha~V. Madhyastha},
+  \bibinfo{person}{Italo Cunha}, \bibinfo{person}{James Quinn},
+  \bibinfo{person}{Saif Hasan}, \bibinfo{person}{Petr Lapukhov}, {and}
+  \bibinfo{person}{Hongyi Zeng}.}
+\newblock \showarticletitle{Engineering Egress with Edge Fabric: Steering
+  Oceans of Content to the World}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Mao, Wang, Gao, and Bush}{Wang
+  et~al\mbox{.}}{2006}]%
+        {a-measurement-study-on-the-impact}
+\bibfield{author}{\bibinfo{person}{Feng Wang}, \bibinfo{person}{Zhuoqing~Morley
+  Mao}, \bibinfo{person}{Jia Wang}, \bibinfo{person}{Lixin Gao}, {and}
+  \bibinfo{person}{Randy Bush}.}
+\newblock \showarticletitle{A Measurement Study on the Impact of Routing Events
+  on End-to-End Internet Path Performance}. In \bibinfo{booktitle}{\emph{ACM
+  SIGCOMM}},  \bibinfo{year}{2006}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yap, Motiwala, Rahe, Padgett, Holliman,
+  Baldus, Hines, Kim, Narayanan, Jain, et~al\mbox{.}}{Yap
+  et~al\mbox{.}}{2017}]%
+        {yap2017taking}
+\bibfield{author}{\bibinfo{person}{Kok-Kiong Yap}, \bibinfo{person}{Murtaza
+  Motiwala}, \bibinfo{person}{Jeremy Rahe}, \bibinfo{person}{Steve Padgett},
+  \bibinfo{person}{Matthew Holliman}, \bibinfo{person}{Gary Baldus},
+  \bibinfo{person}{Marcus Hines}, \bibinfo{person}{Taeeun Kim},
+  \bibinfo{person}{Ashok Narayanan}, \bibinfo{person}{Ankur Jain},
+  {et~al\mbox{.}}}
+\newblock \showarticletitle{Taking the Edge off with Espresso: Scale,
+  Reliability and Programmability for Global Internet Peering}. In
+  \bibinfo{booktitle}{\emph{ACM SIGCOMM}},  \bibinfo{year}{2017}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhu, Vermeulen, Cunha, Katz-Bassett, and
+  Calder}{Zhu et~al\mbox{.}}{2022}]%
+        {imc-jc-deanony}
+\bibfield{author}{\bibinfo{person}{Jiangchen Zhu}, \bibinfo{person}{Kevin
+  Vermeulen}, \bibinfo{person}{Italo Cunha}, \bibinfo{person}{Ethan
+  Katz-Bassett}, {and} \bibinfo{person}{Matt Calder}.}
+\newblock \showarticletitle{The best of both worlds: high availability CDN
+  routing without compromising control}. In \bibinfo{booktitle}{\emph{ACM
+  IMC}},  \bibinfo{year}{2022}\natexlab{}.
+\newblock
+
+
+\end{thebibliography}
