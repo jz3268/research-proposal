@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{15}
+\begin{thebibliography}{22}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,6 +36,14 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Allman}{Allman}{2020}]%
+        {dns-in-context}
+\bibfield{author}{\bibinfo{person}{Mark Allman}.}
+\newblock \showarticletitle{Putting DNS in Context}. In
+  \bibinfo{booktitle}{\emph{ACM IMC}},  \bibinfo{year}{2020}\natexlab{}.
+\newblock
+
 
 \bibitem[\protect\citeauthoryear{Bertholdo, Ceron, Vries, Schmidt, Granville,
   Rijswijk-Deij, and Pras}{Bertholdo et~al\mbox{.}}{2021}]%
@@ -85,6 +93,17 @@
 \newblock
 
 
+\bibitem[\protect\citeauthoryear{Chen, Sitaraman, and Torres}{Chen
+  et~al\mbox{.}}{2015}]%
+        {end-user-mapping}
+\bibfield{author}{\bibinfo{person}{Fangfei Chen}, \bibinfo{person}{Ramesh~K.
+  Sitaraman}, {and} \bibinfo{person}{Marcelo Torres}.}
+\newblock \showarticletitle{End-User Mapping: Next Generation Request Routing
+  for Content Delivery}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock
+
+
 \bibitem[\protect\citeauthoryear{Flavel, Mani, Maltz, Holt, Liu, Chen, and
   Surmachev}{Flavel et~al\mbox{.}}{2015}]%
         {flavel2015fastroute}
@@ -95,6 +114,17 @@
 \newblock \showarticletitle{Fastroute: A scalable Load-Aware Anycast Routing
   Architecture for Modern CDNs}. In \bibinfo{booktitle}{\emph{USENIX NSDI}},
   \bibinfo{year}{2015}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jung, Sit, Balakrishnan, and Morris}{Jung
+  et~al\mbox{.}}{2001}]%
+        {dns-performance-caching}
+\bibfield{author}{\bibinfo{person}{Jaeyeon Jung}, \bibinfo{person}{E. Sit},
+  \bibinfo{person}{H. Balakrishnan}, {and} \bibinfo{person}{R. Morris}.}
+\newblock \showarticletitle{DNS Performance and the Effectiveness of Caching}.
+  In \bibinfo{booktitle}{\emph{ACM SIGCOMM IMW}},
+  \bibinfo{year}{2001}\natexlab{}.
 \newblock
 
 
@@ -166,6 +196,29 @@
 \newblock
 
 
+\bibitem[\protect\citeauthoryear{Moura, Heidemann, Schmidt, and Hardaker}{Moura
+  et~al\mbox{.}}{2019}]%
+        {cache-me-if-you-can}
+\bibfield{author}{\bibinfo{person}{Giovane C.~M. Moura}, \bibinfo{person}{John
+  Heidemann}, \bibinfo{person}{Ricardo de~O. Schmidt}, {and}
+  \bibinfo{person}{Wes Hardaker}.}
+\newblock \showarticletitle{Cache Me If You Can: Effects of DNS Time-to-Live}.
+  In \bibinfo{booktitle}{\emph{ACM IMC}},  \bibinfo{year}{2019}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rizvi, Bertholdo, Ceron, and Heidemann}{Rizvi
+  et~al\mbox{.}}{2022}]%
+        {anycast-agility}
+\bibfield{author}{\bibinfo{person}{A~S~M Rizvi}, \bibinfo{person}{Leandro
+  Bertholdo}, \bibinfo{person}{Jo{\~a}o Ceron}, {and} \bibinfo{person}{John
+  Heidemann}.}
+\newblock \showarticletitle{Anycast Agility: Network Playbooks to Fight
+  {DDoS}}. In \bibinfo{booktitle}{\emph{USENIX Security}},
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock
+
+
 \bibitem[\protect\citeauthoryear{Schlinker, Arnold, Cunha, and
   Katz-Bassett}{Schlinker et~al\mbox{.}}{2019}]%
         {schlinker19peering}
@@ -190,6 +243,27 @@
 \newblock \showarticletitle{Engineering Egress with Edge Fabric: Steering
   Oceans of Content to the World}. In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},
   \bibinfo{year}{2017}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sengupta, Kim, and Rexford}{Sengupta
+  et~al\mbox{.}}{2022}]%
+        {rtt-monitor}
+\bibfield{author}{\bibinfo{person}{Satadal Sengupta}, \bibinfo{person}{Hyojoon
+  Kim}, {and} \bibinfo{person}{Jennifer Rexford}.}
+\newblock \showarticletitle{Continuous in-network round-trip time monitoring}.
+  In \bibinfo{booktitle}{\emph{ACM SIGCOMM}},  \bibinfo{year}{2022}\natexlab{}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vermeulen, Gurmericliler, Cunha, Choffnes, and
+  Katz-Bassett}{Vermeulen et~al\mbox{.}}{2022}]%
+        {vermeulen2022internet}
+\bibfield{author}{\bibinfo{person}{Kevin Vermeulen}, \bibinfo{person}{Ege
+  Gurmericliler}, \bibinfo{person}{Italo Cunha}, \bibinfo{person}{Dave
+  Choffnes}, {and} \bibinfo{person}{Ethan Katz-Bassett}.}
+\newblock \showarticletitle{{Internet Scale Reverse Traceroute}}. In
+  \bibinfo{booktitle}{\emph{ACM IMC}},  \bibinfo{year}{2022}\natexlab{}.
 \newblock
 
 

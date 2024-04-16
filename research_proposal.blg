@@ -11,6 +11,9 @@ Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in dns-in-context
+Warning--empty address in dns-in-context
+Warning--page numbers missing in both pages and numpages fields in dns-in-context
 Warning--empty publisher in tangled
 Warning--empty address in tangled
 Warning--page numbers missing in both pages and numpages fields in tangled
@@ -23,9 +26,15 @@ Warning--page numbers missing in both pages and numpages fields in tango-nsdi
 Warning--empty publisher in anycast_matt
 Warning--empty address in anycast_matt
 Warning--page numbers missing in both pages and numpages fields in anycast_matt
+Warning--empty publisher in end-user-mapping
+Warning--empty address in end-user-mapping
+Warning--page numbers missing in both pages and numpages fields in end-user-mapping
 Warning--empty publisher in flavel2015fastroute
 Warning--empty address in flavel2015fastroute
 Warning--page numbers missing in both pages and numpages fields in flavel2015fastroute
+Warning--empty publisher in dns-performance-caching
+Warning--empty address in dns-performance-caching
+Warning--page numbers missing in both pages and numpages fields in dns-performance-caching
 Warning--empty publisher in painter
 Warning--empty address in painter
 Warning--page numbers missing in both pages and numpages fields in painter
@@ -41,12 +50,24 @@ Warning--page numbers missing in both pages and numpages fields in capa
 Warning--empty publisher in tipsy
 Warning--empty address in tipsy
 Warning--page numbers missing in both pages and numpages fields in tipsy
+Warning--empty publisher in cache-me-if-you-can
+Warning--empty address in cache-me-if-you-can
+Warning--page numbers missing in both pages and numpages fields in cache-me-if-you-can
+Warning--empty publisher in anycast-agility
+Warning--empty address in anycast-agility
+Warning--page numbers missing in both pages and numpages fields in anycast-agility
 Warning--empty publisher in schlinker19peering
 Warning--empty address in schlinker19peering
 Warning--page numbers missing in both pages and numpages fields in schlinker19peering
 Warning--empty publisher in schlinker2017engineering
 Warning--empty address in schlinker2017engineering
 Warning--page numbers missing in both pages and numpages fields in schlinker2017engineering
+Warning--empty publisher in rtt-monitor
+Warning--empty address in rtt-monitor
+Warning--page numbers missing in both pages and numpages fields in rtt-monitor
+Warning--empty publisher in vermeulen2022internet
+Warning--empty address in vermeulen2022internet
+Warning--page numbers missing in both pages and numpages fields in vermeulen2022internet
 Warning--empty publisher in a-measurement-study-on-the-impact
 Warning--empty address in a-measurement-study-on-the-impact
 Warning--page numbers missing in both pages and numpages fields in a-measurement-study-on-the-impact
@@ -56,45 +77,45 @@ Warning--page numbers missing in both pages and numpages fields in yap2017taking
 Warning--empty publisher in imc-jc-deanony
 Warning--empty address in imc-jc-deanony
 Warning--page numbers missing in both pages and numpages fields in imc-jc-deanony
-You've used 15 entries,
+You've used 22 entries,
             5903 wiz_defined-function locations,
-            1393 strings with 17985 characters,
-and the built_in function-call counts, 19125 in all, are:
-= -- 1581
-> -- 1242
+            1418 strings with 18904 characters,
+and the built_in function-call counts, 26561 in all, are:
+= -- 2245
+> -- 1563
 < -- 0
-+ -- 427
-- -- 408
-* -- 1739
-:= -- 2258
-add.period$ -- 60
-call.type$ -- 15
-change.case$ -- 161
-chr.to.int$ -- 15
-cite$ -- 60
-duplicate$ -- 1591
-empty$ -- 1111
-format.name$ -- 468
-if$ -- 4172
++ -- 530
+- -- 508
+* -- 2308
+:= -- 3030
+add.period$ -- 88
+call.type$ -- 22
+change.case$ -- 213
+chr.to.int$ -- 22
+cite$ -- 88
+duplicate$ -- 2333
+empty$ -- 1629
+format.name$ -- 592
+if$ -- 5876
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 75
-newline$ -- 145
-num.names$ -- 120
-pop$ -- 867
+missing$ -- 110
+newline$ -- 194
+num.names$ -- 176
+pop$ -- 1248
 preamble$ -- 1
-purify$ -- 296
+purify$ -- 411
 quote$ -- 0
-skip$ -- 542
+skip$ -- 794
 stack$ -- 0
-substring$ -- 859
-swap$ -- 90
+substring$ -- 1258
+swap$ -- 132
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 450
-warning$ -- 45
-while$ -- 60
+type$ -- 660
+warning$ -- 66
+while$ -- 92
 width$ -- 0
-write$ -- 264
-(There were 45 warnings)
+write$ -- 369
+(There were 66 warnings)

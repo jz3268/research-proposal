@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  14 APR 2024 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.14)  15 APR 2024 22:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -40,7 +40,7 @@ Package acmart Info: Not using authordraft mode on input line 155.
 Package acmart Info: Using nonacm mode on input line 164.
 Package acmart Info: Using screen mode on input line 164.
 Class acmart Info: Using format sigconf, number 4 on input line 164.
-Class acmart Info: Using fontsize 10pt on input line 228.
+Class acmart Info: Using fontsize 9pt on input line 228.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
@@ -685,7 +685,7 @@ File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 2922.
+(Font)              scaled to size 9.0pt on input line 2922.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -941,14 +941,20 @@ h' as default language. on input line 63.
 LaTeX Warning: Unused global option(s):
     [letterpaper].
 
-(./research_proposal.aux)
+(./research_proposal.aux
+
+LaTeX Warning: Label `tab:summary' multiply defined.
+
+
+LaTeX Warning: Label `tab:summary@cref' multiply defined.
+
+)
 \openout1 = `research_proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 63.
 LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line
  63.
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 63.
@@ -991,7 +997,7 @@ File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 63.
+(Font)              scaled to size 7.0pt on input line 63.
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
  on input line 63.
 
@@ -1001,10 +1007,8 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 63.
+(Font)              scaled to size 7.3pt on input line 63.
 <<ot1.cmap>>
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 63.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 63.
 <<oml.cmap>>
@@ -1111,7 +1115,7 @@ e
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=506.295pt
-* \textheight=622.0pt
+* \textheight=626.0pt
 * \oddsidemargin=-18.26999pt
 * \evensidemargin=-18.26999pt
 * \topmargin=-15.26999pt
@@ -1144,7 +1148,7 @@ LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 63
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 
 LaTeX Font Warning: Font shape `T1/zi4/m/it' undefined
@@ -1155,11 +1159,11 @@ LaTeX Font Warning: Font shape `T1/zi4/m/sl' undefined
 (Font)              using `T1/zi4/m/it' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/m/it' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/m/scit' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/b/it' undefined
 (Font)              using `T1/zi4/b/n' instead on input line 63.
@@ -1169,13 +1173,13 @@ LaTeX Font Warning: Font shape `T1/zi4/b/sl' undefined
 (Font)              using `T1/zi4/b/it' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/b/it' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/b/scit' will be
-(Font)              scaled to size 10.0pt on input line 63.
-LaTeX Font Info:    Font shape `T1/zi4/bx/n' in size <10> not available
+(Font)              scaled to size 9.0pt on input line 63.
+LaTeX Font Info:    Font shape `T1/zi4/bx/n' in size <9> not available
 (Font)              Font shape `T1/zi4/b/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/bx/it' undefined
 (Font)              using `T1/zi4/bx/n' instead on input line 63.
@@ -1184,14 +1188,14 @@ LaTeX Font Warning: Font shape `T1/zi4/bx/it' undefined
 LaTeX Font Warning: Font shape `T1/zi4/bx/sl' undefined
 (Font)              using `T1/zi4/bx/it' instead on input line 63.
 
-LaTeX Font Info:    Font shape `T1/zi4/bx/it' in size <10> not available
+LaTeX Font Info:    Font shape `T1/zi4/bx/it' in size <9> not available
 (Font)              Font shape `T1/zi4/b/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
-LaTeX Font Info:    Font shape `T1/zi4/bx/scit' in size <10> not available
+(Font)              scaled to size 9.0pt on input line 63.
+LaTeX Font Info:    Font shape `T1/zi4/bx/scit' in size <9> not available
 (Font)              Font shape `T1/zi4/b/scit' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/zi4/b/scit' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/sbx/scit' undefined
 (Font)              using `T1/zi4/sb/scit' instead on input line 63.
@@ -1205,13 +1209,13 @@ LaTeX Font Warning: Font shape `T1/zi4/sb/it' undefined
 (Font)              using `T1/zi4/sb/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/sb/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/sb/sl' undefined
 (Font)              using `T1/zi4/sb/it' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/sb/it' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/sb/scit' undefined
 (Font)              using `T1/zi4/sb/sc' instead on input line 63.
@@ -1233,13 +1237,13 @@ LaTeX Font Warning: Font shape `T1/zi4/c/it' undefined
 (Font)              using `T1/zi4/c/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/c/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/c/sl' undefined
 (Font)              using `T1/zi4/c/it' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/c/it' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/c/scit' undefined
 (Font)              using `T1/zi4/c/sc' instead on input line 63.
@@ -1261,13 +1265,13 @@ LaTeX Font Warning: Font shape `T1/zi4/l/it' undefined
 (Font)              using `T1/zi4/l/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/l/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/l/sl' undefined
 (Font)              using `T1/zi4/l/it' instead on input line 63.
 
 LaTeX Font Info:    Font shape `T1/zi4/l/it' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 63.
 
 LaTeX Font Warning: Font shape `T1/zi4/l/scit' undefined
 (Font)              using `T1/zi4/l/sc' instead on input line 63.
@@ -1297,7 +1301,7 @@ nslations-basic-dictionary')
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `english'. on input line 63.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 71.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
 n input line 71.
 
@@ -1306,42 +1310,34 @@ File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 71.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 71.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 71.
+(Font)              scaled to size 9.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
+(Font)              scaled to size 12.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
+(Font)              scaled to size 12.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
+(Font)              scaled to size 12.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 71.
+(Font)              scaled to size 10.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
+(Font)              scaled to size 9.0pt on input line 78.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 78.
+(Font)              scaled to size 10.95pt on input line 78.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 82.
+(Font)              scaled to size 9.0pt on input line 82.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 9.0pt on input line 180.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 179.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1349,49 +1345,66 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \hbox (badness 1424) in paragraph at lines 217--229
+\T1/LinuxLibertineT-TLF/m/n/9 (+20) a level of con-trol that was pre-vi-ously u
+nattain-able with-out
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 217--229
+\T1/LinuxLibertineT-TLF/m/n/9 (+20) col-lab-o-ra-tion with them. To aid the re-
+search com-mu-nity in
+ []
+
+[2.2]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 308.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 246.
-
-(./research_proposal.bbl
+(Font)              scaled to size 8.0pt on input line 309.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 311.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.2pt on input line 311.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 5.
+(Font)              scaled to size 8.0pt on input line 320.
+(./research_proposal.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 50.
+(Font)              scaled to size 7.0pt on input line 44.
 
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[2.2])
+[3.3])
 
-Package caption Warning: Unused \captionsetup[table] on input line 67.
+Package caption Warning: Unused \captionsetup[figure] on input line 69.
 See the caption package documentation for explanation.
 
-
-Package caption Warning: Unused \captionsetup[figure] on input line 68.
-See the caption package documentation for explanation.
-
-
-Overfull \vbox (1.888pt too high) has occurred while \output is active []
-
- [3.3]
-(./research_proposal.aux)
+[4.4] (./research_proposal.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `research_proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 4152DDF38C533E4765E9BFD4784FD343;1621.
+(rerunfilecheck)             Checksum: 15C17667BFF6B9D3D28E4BD7ACE7159B;1883.
  ) 
 Here is how much of TeX's memory you used:
- 28298 strings out of 478268
- 520431 string characters out of 5846347
- 826930 words of memory out of 5000000
- 45492 multiletter control sequences out of 15000+600000
- 604848 words of font info for 293 fonts, out of 8000000 for 9000
+ 28372 strings out of 478268
+ 522124 string characters out of 5846347
+ 831702 words of memory out of 5000000
+ 45544 multiletter control sequences out of 15000+600000
+ 606105 words of font info for 299 fonts, out of 8000000 for 9000
  1303 hyphenation exceptions out of 8191
- 84i,11n,131p,1348b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,131p,2565b,1117s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
 }{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{
@@ -1403,10 +1416,10 @@ ineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLi
 bertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/
 LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx
 /txsys.pfb>
-Output written on research_proposal.pdf (3 pages, 340386 bytes).
+Output written on research_proposal.pdf (4 pages, 361844 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 59461 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 67661 words of extra memory for PDF output out of 74296 (max. 10000000)
 
